@@ -18,16 +18,16 @@ export function Footer() {
                 </li>
                 <li className="p-4 flex items-center gap-2 hover:bg-white hover:text-blue-900 rounded">
                     <img src={instagram.src} alt="icone do instagram" width={30}/>
-                    <a href="#">Instagram</a>
+                    <a href="https://www.instagram.com/maonamassatechnology/" rel="noreferrer" target="_blank">Instagram</a>
                 </li>
                 <li className="p-4 flex items-center gap-2 hover:bg-white hover:text-blue-900 rounded">
                     <img src={facebook.src} alt="icone do facebook" width={30}/>
-                    <a href="#">Facebook</a>
+                    <a href="https://web.facebook.com/M%C3%A3o-na-Massa-Technology-106680622114480" rel="noreferrer" target="_blank">Facebook</a>
                 </li>
                 <li className="p-4 flex items-center gap-2 hover:bg-white hover:text-blue-900 rounded">
                     
                     <img src={linkden.src} alt="icone do linkedin" width={30}/>
-                    <a href="#">linkedin</a>
+                    <a href="https://www.linkedin.com/in/m%C3%A3o-na-massa-technology-b80301245" rel="noreferrer" target="_blank">linkedin</a>
                 </li>
             </ol>
             <p className="font-thin text-center my-4">
