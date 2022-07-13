@@ -14,7 +14,7 @@ export function Footer() {
                 </li>
                 <li className="p-4 flex items-center gap-2 hover:bg-white hover:text-blue-900 rounded">
                     <img src={email.src} alt="icone do email" width={30}/>
-                    <a href="mailto:maonamassatechnology@gmail.com"  target="_blank">maonamassatechnology@gmail.com</a>
+                    <a href="mailto:maonamassatechnology@gmail.com" rel="noreferrer" target="_blank">maonamassatechnology@gmail.com</a>
                 </li>
                 <li className="p-4 flex items-center gap-2 hover:bg-white hover:text-blue-900 rounded">
                     <img src={instagram.src} alt="icone do instagram" width={30}/>
