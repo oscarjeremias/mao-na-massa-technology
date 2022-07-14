@@ -27,7 +27,7 @@ export function Footer() {
                 <li className="p-4 flex items-center gap-2 hover:bg-white hover:text-blue-900 rounded">
                     
                     <img src={linkden.src} alt="icone do linkedin" width={30}/>
-                    <a href="https://www.linkedin.com/in/m%C3%A3o-na-massa-technology-b80301245" rel="noreferrer" target="_blank">linkedin</a>
+                    <a href="https://www.linkedin.com/company/m%C3%A3o-na-massa-tecnology/" rel="noreferrer" target="_blank">linkedin</a>
                 </li>
             </ol>
             <p className="font-thin text-center my-4">
